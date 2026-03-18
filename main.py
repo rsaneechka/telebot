@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-token = '7318172593:AAGws5Y8E6tgUF95A1tLqrQQ9S3r52w_HJY'  # Замените на ваш токен
+token = '7318172593:AAGws5Y8E6Y'  # Замените на ваш токен
 bot = telebot.TeleBot(token)
 
 # Словарь для отслеживания состояния повторения для каждого пользователя
